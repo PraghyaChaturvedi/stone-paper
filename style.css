@@ -1,0 +1,88 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.img{
+    height:150px;
+    width:150px;
+    margin: 15px;
+  }
+  
+  .choice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .img2{
+    height: 170px;
+    width: 170px;
+    margin: 10px;
+    
+  }
+  
+  .title{
+    text-align: center;
+    color:navy;
+    margin-top: 50px;
+  }
+  
+  .choices{
+    height: 170px;
+    width: 170px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 10px;
+  }
+  
+  .drawopt{
+    height: 50px;
+    width: 150px;
+    background-color: navy;
+    color:white;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .drawtext{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+
+  .main{
+    height: 100%;
+    width: 100%;
+  }
+
+.border:hover{
+  border: 2px solid navy;
+}
+
+.gif{
+  height:150px;
+  width: 150px;
+  align-items: end;
+}
+
+.score{
+  margin-bottom: -150px;
+}
+
+.textd{
+  font-weight: bold;
+  font-size: 20px;
+  color:navy;
+}
+
+.run{
+  color:navy;
+  font-weight: bolder;
+  font-size: 30px;
+  background-color: pink;
+}
