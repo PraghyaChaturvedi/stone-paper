@@ -35,8 +35,6 @@ stone-paper-scissors/
 └── README.md        # Project documentation
 ```
 
-## Screenshots
-_Add screenshots here to showcase the design._
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repo and submit a pull request.
