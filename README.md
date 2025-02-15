@@ -45,3 +45,10 @@ This project is licensed under the MIT License.
 ## Contact
 For any queries, reach out at **praghyachaturvedi@gmail.com** or connect via [GitHub](https://github.com/PraghyaChaturvedi).
 
+
+
+
+## Screenshot
+![Screenshot 2025-02-16 014834](https://github.com/user-attachments/assets/c28e5bb1-5066-4e07-865a-8afbf9752c84)
+
+
